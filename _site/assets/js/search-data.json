@@ -1,0 +1,30 @@
+{"0": {
+    "doc": "Updating Application and Environment Variables",
+    "title": "Updating Application and Environment Variables",
+    "content": "Snaplogic . The following Pipeline Parameters are set in Workday.NewHire-IAM.Create. keyBlockTermCode. This value should be updated for each new academic year. Link button . import antigravity . ",
+    "url": "/calendar.html",
+    
+    "relUrl": "/calendar.html"
+  },"1": {
+    "doc": "Welcome",
+    "title": "Welcome",
+    "content": "This is the welcome page for the IAM Provisioning application. Here you can manage identities and access permissions efficiently. Getting Started . To get started, please follow the documentation provided in this repository. Link button . import antigravity . ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"2": {
+    "doc": "Workday and IAM",
+    "title": "Workday’s role in IAM provisioning",
+    "content": "This is the welcome page for the IAM Provisioning application. Here you can manage identities and access permissions efficiently. Getting Started . To get started, please follow the documentation provided in this repository. Link button . import antigravity . ",
+    "url": "/workday.html#workdays-role-in-iam-provisioning",
+    
+    "relUrl": "/workday.html#workdays-role-in-iam-provisioning"
+  },"3": {
+    "doc": "Workday and IAM",
+    "title": "Workday and IAM",
+    "content": " ",
+    "url": "/workday.html",
+    
+    "relUrl": "/workday.html"
+  }
+}

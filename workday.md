@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Welcome
-nav_order: 1
+title: Workday and IAM
+nav_order: 3
 ---
 
-## Welcome
+## Workday's role in IAM provisioning
 
 This is the welcome page for the IAM Provisioning application. Here you can manage identities and access permissions efficiently.
 

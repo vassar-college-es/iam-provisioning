@@ -1,0 +1,26 @@
+.side-bar {
+    @include mq(lg) {
+        width: 320px; // Set your desired width
+        min-width: 320px;
+    }
+}
+
+@media (min-width: 50rem) {
+    .main-content-wrap {
+        padding-right: 2rem;
+        padding-left: 5rem;
+    }
+}
+
+@media (min-width: 31.25rem) {
+    .site-title {
+        font-size: 1.02rem !important;
+        line-height: 1.25;
+    }
+}
+
+.main {
+    @include mq(lg) {
+        margin-left: 325px; // Sidebar width + desired padding
+    }
+}
