@@ -1,12 +1,4 @@
 title: "Vassar College IAM and Ellucian Banner Cloud"
 description: "IAM Provisioning Application"
 theme: "just-the-docs"
-exlude:
-  - Gemfile
-  - Gemfile.lock
-  - .gitignore
-  - .github
-  - README.md
-  - LICENSE
-  - .DS_Store
 url: https://vassar-college.github.io/iam-provisioning
